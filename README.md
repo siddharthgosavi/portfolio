@@ -28,3 +28,5 @@ Or if you have any question/feedback, please do not hesitate to reach out to me!
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![next-js](https://github.com/siddharthgosavi/portfolio/assets/17062336/461106fb-f4ab-4af7-ba63-80308a432d97)
+
