@@ -10,11 +10,12 @@ Welcome to my portfolio website , thank you for checking it out.
 
 ![portfolio](https://github.com/siddharthgosavi/portfolio/assets/17062336/1555c2c5-b9e5-41ed-b156-c85eb2041dba)
 
-### 🌐 [Repo](https://github.com/siddharthgosavi/portfolio) | [Live](WebAdd)
+
+### 🌐 [Repo](https://github.com/siddharthgosavi/portfolio) | [Live](WebAdd) 
 
 If you like my portfolio website, please give a ⭐️! Thank you so much.
 
-Or if you have any question/feedback, please do not hesitate to reach out to me!
+Or if you have any question/feedback, please do not hesitate to reach out to me! 
 
 ## Creator
 
