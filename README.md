@@ -11,7 +11,7 @@ Welcome to my portfolio website , thank you for checking it out.
 ![portfolio](https://github.com/siddharthgosavi/portfolio/assets/17062336/1555c2c5-b9e5-41ed-b156-c85eb2041dba)
 
 
-### 🌐 [Repo](https://github.com/siddharthgosavi/portfolio) | [Live](WebAdd) 
+### 🌐 [Repo](https://github.com/siddharthgosavi/portfolio) | [Live](https://portfolio-16nw8allb-siddharthgosavi.vercel.app/) 
 
 If you like my portfolio website, please give a ⭐️! Thank you so much.
 
