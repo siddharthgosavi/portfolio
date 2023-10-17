@@ -1,36 +1,40 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div align="center">
+  <img alt="Logo" src="https://user-images.githubusercontent.com/75753187/197651348-b0160196-7401-4102-aa0c-4f916d5cdd68.png" width="100" />
+</div>
+<h1 align="center">
+  WebAdd
+</h1>
+<p align="center">
+Welcome to my portfolio website , thank you for checking it out. 
+</p>
 
-## Getting Started
+![portfolio](https://github.com/siddharthgosavi/portfolio/assets/17062336/1555c2c5-b9e5-41ed-b156-c85eb2041dba)
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### 🌐 [Repo](https://github.com/siddharthgosavi/portfolio) | [Live](WebAdd) 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+If you like my portfolio website, please give a ⭐️! Thank you so much.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Or if you have any question/feedback, please do not hesitate to reach out to me! 
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Creator
 
-## Learn More
+👤 **Siddharth Gosavi**
 
-To learn more about Next.js, take a look at the following resources:
+- Github:[@SiDDHARTH](https://github.com/siddharthgosavi)
+- Linked:[LinkedIn](https://linkedin.com/in/siddharthgosavi/)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Technologies Used
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## Deploy on Vercel
+## Credits
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<table align="center">
+    <tr>
+        <td align="center"><a href="https://zhengjianliu.com/"><img src="https://user-images.githubusercontent.com/75753187/119867297-b9e02a80-beeb-11eb-86b4-607b16764164.jpeg" width="100px;" alt="avarta"/><br/><b>Zhengjian(Jay) Liu</b></a><br/></td>
+        <td align="center"><a href="https://brittanychiang.com/"><img src="https://user-images.githubusercontent.com/75753187/197653033-d332c956-bd45-4169-a6d2-d7a0636a884b.jpeg" width="100px;" alt="avarta"/><br/><b>Brittany Chiang</b></a><br/></td>
+        <td align="center"><a href="https://lokkeestudios.com/"><img src="https://user-images.githubusercontent.com/75753187/197653083-7d9733e6-f142-48b0-8530-3fa85ba746bd.png" width="100px;" alt="avarta"/><br/><b>LOKKEE STUDIOS</b></a><br/></td>
+    </tr>
+</table>
