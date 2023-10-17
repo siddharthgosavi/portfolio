@@ -1,9 +1,9 @@
 <div align="center">
   <img alt="Logo" src="https://github.com/siddharthgosavi/portfolio/assets/17062336/127f8d8b-0544-4abe-b7b2-afac35e29503" width="100" />
 </div>
-<h1 align="center">
-  ![Siddharth.DEV](https://portfolio-16nw8allb-siddharthgosavi.vercel.app/)
-</h1>
+
+  ![<h1 align="center">Siddharth.DEV</h1>](https://portfolio-16nw8allb-siddharthgosavi.vercel.app/)
+
 <p align="center">
 Welcome to my portfolio website , thank you for checking it out. 
 </p>
