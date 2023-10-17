@@ -1,18 +1,59 @@
+const { animate } = require("framer-motion");
+
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: [
-    './src/pages/**/*.{js,ts,jsx,tsx,mdx}',
-    './src/components/**/*.{js,ts,jsx,tsx,mdx}',
-    './src/app/**/*.{js,ts,jsx,tsx,mdx}',
-  ],
+  content: ["./pages/**/*.{js,jsx,ts,tsx}", "./components/**/*.{js,jsx,ts,tsx}", "./container/**/*.{js,jsx,ts,tsx}"],
   theme: {
     extend: {
-      backgroundImage: {
-        'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
-        'gradient-conic':
-          'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
-      },
+      colors: {
+        primary: "#17171F"
+      }
     },
+    animation: {
+      float: "float 3s infinite",
+      refloat: "refloat 3s infinite",
+      bounce: "bounce 1s infinite;"
+    },
+    keyframes: {
+      float: {
+        "0%": {
+          transform: "translateY(0px)",
+          animationTimingFunction: "ease-in-out"
+        },
+        "50%": {
+          transform: "translateY(-20px)",
+          animationTimingFunction: "ease-in-out"
+        },
+        "100%": {
+          transform: "translateY(0px)",
+          animationTimingFunction: "ease-in-out"
+        }
+      },
+      refloat: {
+        "0%": {
+          transform: "translateY(-20px)",
+          animationTimingFunction: "ease-in-out"
+        },
+        "50%": {
+          transform: "translateY(0px)",
+          animationTimingFunction: "ease-in-out"
+        },
+        "100%": {
+          transform: "translateY(-20px)",
+          animationTimingFunction: "ease-in-out"
+        }
+      },
+      bounce: {
+        "0%, 100%": {
+          transform: "translateX(-25%)",
+          animationTimingFunction: "cubic-bezier(0.8, 0, 1, 1)"
+        },
+        "50%": {
+          transform: "translateX(0)",
+          animationTimingFunction: "cubic-bezier(0, 0, 0.2, 1)"
+        }
+      }
+    }
   },
-  plugins: [],
-}
+  plugins: [require("@tailwindcss/aspect-ratio")]
+};
